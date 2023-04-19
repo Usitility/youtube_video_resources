@@ -23,3 +23,7 @@ This repository contains text files, one for each video uploaded on Usitility's 
 
 ## Contributing
 If you notice any errors or missing prompts, please feel free to contribute by submitting a pull request. We appreciate your help in making this repository as helpful as possible for our viewers.
+
+[🤖 Más herramientas de Inteligencia Artificial](https://www.usitility.com/es/web-apps/inteligencia-artificial/)
+
+[🔗 Visita nuestra web de Usitility](https://www.usitility.com/)
